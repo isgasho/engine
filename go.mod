@@ -9,7 +9,7 @@ require (
 	github.com/Nvveen/Gotty v0.0.0-20120604004816-cd527374f1e5 // indirect
 	github.com/antchfx/xpath v0.0.0-20190129040759-c8489ed3251e // indirect
 	github.com/bblfsh/bblfshd v2.12.1+incompatible
-	github.com/bblfsh/go-client/v4 v4.0.0
+	github.com/bblfsh/go-client/v4 v4.0.1
 	github.com/blang/semver v3.5.1+incompatible
 	github.com/cespare/trie v0.0.0-20150610204604-3fe1a95cbba9 // indirect
 	github.com/docker/distribution v2.7.1+incompatible // indirect
